@@ -1,6 +1,6 @@
 this is test file 
 
-
+feature 0 added
 feature1 - fixed from branch emergency-fix
 feature2
 feature3
