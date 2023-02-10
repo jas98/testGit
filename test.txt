@@ -9,3 +9,5 @@ feature4 -second commit
 feature 4 update- third commit
 
 feature 5 added rana.txt and jashn.txt
+
+checking git amend commnad
