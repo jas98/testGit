@@ -1,9 +1,11 @@
 this is test file 
 
 
-feature1
+feature1 - fixed from branch emergency-fix
 feature2
 feature3
 
 feature4 -second commit 
 feature 4 update- third commit
+
+feature 5 added rana.txt and jashn.txt
