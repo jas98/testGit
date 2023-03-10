@@ -1,6 +1,12 @@
 f1 apple
 f2 car
-f3 table		//upadted in feature2
-
+3 table		//upadted in feature2
 feature2 added 
 helicopeter
+f3 chair
+f4 wall
+f5 mouse
+f6 pen
+f7 book
+f8 lapatop
+
