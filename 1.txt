@@ -1,3 +1,6 @@
 f1 apple
 f2 car
-f3 chair
+f3 table		//upadted in feature2
+
+feature2 added 
+helicopeter
